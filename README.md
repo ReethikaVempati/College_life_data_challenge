@@ -1,1 +1,1 @@
-# College_life_data_challenge
+# College_life_daily_challenge
